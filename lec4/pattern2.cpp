@@ -8,7 +8,7 @@ cin >> n ;
  int i = 1;
   while (i<=n){
      int j = 1;
-     whil(j<=n){
+     while(j<=n){
         cout << j; //  n- j+1;
         j = j + 1;
 
