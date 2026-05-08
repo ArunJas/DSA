@@ -11,8 +11,8 @@ int main(){
         cout << b << endl ;
           }
          // int b = 1;
-         int i = 8
-         cout << b << endl ;
+         int i = 8;
+        cout << i << endl ;
              for(; i<8 ; i++){
                 cout << " hi " << endl ;
              }
