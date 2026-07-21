@@ -6,8 +6,7 @@ bool search(int arr[],int size,int key){
     if (arr[i] == key){
       return 1;
 }
-}
- return 0;
+return 0;
 }
 int main(){
  int arr[10] = {5,7,-2,10,22,-2,0,5,22,1};
@@ -24,5 +23,5 @@ int main(){
   return 0;
 }
 
-
+ 
 
