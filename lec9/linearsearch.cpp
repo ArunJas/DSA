@@ -20,8 +20,7 @@ int main(){
   else{
     cout << " key is not present " << endl;
 }
-  return 0;
+return 0;
 }
-
- 
+}
 
