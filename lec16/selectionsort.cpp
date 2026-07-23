@@ -2,5 +2,5 @@
 using namespace std;      
 
 int main(){
-    cout << " ONE PIECE !"<< endl;
+    cout << " SELECTION SORT !"<< endl;
 }
