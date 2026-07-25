@@ -1,0 +1,2 @@
+1|ANNISH|20|MALE||CANCER|0|1
+2|annsih|22|male||cls|0|1
